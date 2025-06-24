@@ -6,7 +6,7 @@ class AboutMe:
 
         self.professional_title = "👨‍💻 Data Scientist with 3+ years of experience in ML and AI"
 
-        self.education_background = "🎓 MSc in Computational Engineering at FAU Erlangen, Germany (Specialized in Data Science & AI)"
+        self.education = "🎓 MSc in Computational Engineering at FAU Erlangen, Germany (Specialized in Data Science & AI)"
 
         self.work_summary = "🔧 Built end-to-end ML solutions from Classical ML to Generative AI across multiple domains"
 
