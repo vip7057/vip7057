@@ -3,9 +3,13 @@
 ```python
 class AboutMe:
     def __init__(self):
+
         self.professional_title = "👨‍💻 Data Scientist with 3+ years of experience in ML and AI"
+
         self.education_background = "🎓 MSc in Computational Engineering at FAU Erlangen, Germany (Specialized in Data Science & AI)"
+
         self.work_summary = "🔧 Built end-to-end ML solutions from Classical ML to Generative AI across multiple domains"
+
         self.current_role = "💼 Currently at Allianz Global Investors in Munich, building Agentic AI solutions"
 
         self.industries_experience = [
@@ -24,8 +28,7 @@ class AboutMe:
                                       "⚙️ Intelligent Automation",
                                       "☁️ Cloud",
                                       "🛠️ MLOps"
-                                      ]
- 
+                                      ] 
 ```
 
 ## 🌐 Socials:
