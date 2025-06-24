@@ -91,8 +91,7 @@ class AboutMe:
 ![Databricks](https://img.shields.io/badge/databricks-%23ff3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 
-# certs
-### 🤖 Deep Learning Specialization – DeepLearning.AI  
+# 🏅 My Certifications
 
 | ![](dl.jpg) | ![](nlp.jpg) |  
 |:-------------:|:-------------:|
