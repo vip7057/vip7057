@@ -9,6 +9,18 @@ class AboutMe:
         self.current_role = "💼 Currently at Allianz Global Investors, building Agentic AI solutions"
         self.industries_experience = ["🧑‍🤝‍🧑 Customer Analytics", "🚗 Automotive", "✈️ Aviation", "🔬 Research", "💰 Finance"]
         self.technical_passions = ["🧠 NLP", "🤖 LLMs", "🕸️ Agentic Systems", "🎨 Generative AI", "⚙️ Automation", "☁️ Cloud", "🛠️ MLOps"]
+
+  def __str__(self):
+        return (
+            f"{self.professional_title}\n"
+            f"{self.education_background}\n"
+            f"{self.work_summary}\n"
+            f"{self.current_role}\n"
+            f"🌍 Industries: {', '.join(self.industries_experience)}\n"
+            f"🚀 Passionate about: {', '.join(self.technical_passions)}"
+        )
+
+print(AboutMe())
 ```
 
 ## 🌐 Socials:
