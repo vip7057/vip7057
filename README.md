@@ -94,10 +94,13 @@ class AboutMe:
 # certs
 ### 🤖 Deep Learning Specialization – DeepLearning.AI  
 
-| ![](mcp_fund.png) | ![](mcp2.png) | ![](datacamp1.jpg) |
+| ![](dl.jpg) | ![](nlp.jpg) | ![](genai.jpg) | 
 |:-------------:|:-------------:|:-------------:|
-| ![](datacamp2.jpg) | ![](datacamp3.jpg) | ![](dl.jpg) |
-| ![](nlp.jpg) | ![](genai.jpg) | ![](cert9.png) |
+| ![](mcp_fund.png) | ![](mcp2.png) | 
+|:-------------:|:-------------:|
+| ![](datacamp2.jpg) | ![](datacamp3.jpg) | ![](datacamp1.png) |
+|:-------------:|:-------------:|:-------------:|
+
 
 
 
