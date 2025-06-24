@@ -94,6 +94,12 @@ class AboutMe:
 # certs
 ### 🤖 Deep Learning Specialization – DeepLearning.AI  
 
+| ![](cert1.png) | ![](cert2.png) | ![](cert3.png) |
+|:-------------:|:-------------:|:-------------:|
+| ![](cert4.png) | ![](cert5.png) | ![](cert6.png) |
+| ![](cert7.png) | ![](cert8.png) | ![](cert9.png) |
+
+
 | ![](mcp_fund.png) | ![](image (2).webp) | ![](cert3.png) |
 
 
