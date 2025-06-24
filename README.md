@@ -1,3 +1,15 @@
+## Hi, I'm **Vipul Patil** 
+
+```python
+class AboutMe:
+    def __init__(self):
+        self.professional_title = "👨‍💻 Data Scientist with 3+ years of experience in ML and AI"
+        self.education_background = "🎓 MSc in Computational Engineering at FAU (Specialized in Data Science & AI)"
+        self.work_summary = "🔧 Built end-to-end ML solutions from Classical ML to Generative AI across multiple domains"
+        self.current_role = "💼 Currently at Allianz Global Investors, building Agentic AI solutions"
+        self.industries_experience = ["🧑‍🤝‍🧑 Customer Analytics", "🚗 Automotive", "✈️ Aviation", "🔬 Research", "💰 Finance"]
+        self.technical_passions = ["🧠 NLP", "🤖 LLMs", "🕸️ Agentic Systems", "🎨 Generative AI", "⚙️ Automation", "☁️ Cloud", "🛠️ MLOps"]
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-patil-8a1220195/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vipulpatil7057@gmail.com) 
